@@ -1,4 +1,5 @@
 ALPR Accuracy Analysis Project
+
 🚗 Project Goal
 Evaluate the performance of an Automatic License Plate Recognition (ALPR) system. As a QA Engineer, my task is to validate the AI output against ground-truth data to ensure high reliability in vehicle identification.
 
